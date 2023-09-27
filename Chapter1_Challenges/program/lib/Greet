@@ -1,0 +1,10 @@
+def greet(name):
+    return f"Hello, {name}!"
+
+    # #improting function that I want to test
+    # from lib.greet import *
+
+    # def test_greet_returns_hello_Antonia(name):
+    #     return f"Hello, {Antonia}!" 
+    #  
+    print(greet("Antonia"))
